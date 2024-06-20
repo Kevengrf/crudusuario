@@ -1,0 +1,5 @@
+com\exemplo\crudusuarios\repository\UsuarioRepository.class
+com\exemplo\crudusuarios\controller\UsuarioController.class
+com\exemplo\crudusuarios\model\Usuario.class
+com\examplo\crudusuarios\CrudUsuariosApplication.class
+com\exemplo\crudusuarios\service\UsuarioService.class
